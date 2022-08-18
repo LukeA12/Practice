@@ -6,7 +6,7 @@ public class App {
             System.out.println("ECLIPSE IS BETTER");
         }
         for(int j = 0; j < 10; j++){
-            System.out.println("Wait, is it working now?????????????????");
+            System.out.println("Wait, is it working now??????????????");
         }
     }
 }
