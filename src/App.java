@@ -3,10 +3,10 @@ public class App {
         System.out.println("Hello, World!");
         System.out.println("WHY WONT VS CODE WORK");
         for(int i = 0; i < 10; i++){
-            System.out.println("ECLIPSE IS BETTR");
+            System.out.println("ECLIPSE IS BETTER");
         }
         for(int j = 0; j < 10; j++){
-            System.out.println("Wait, is it workin now?????????????????");
+            System.out.println("Wait, is it working now?????????????????");
         }
     }
 }
